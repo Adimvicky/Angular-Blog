@@ -6,9 +6,15 @@ you could also do this on your terminal by running..
 > git clone https://github.com/adimvicky/Angular-Blog.git *project name*
 
 Change directory into the project folder using..
+
 > cd *project name*
+
 then run 
+
 > npm install
+
 this would install all the required dependencies for the project. Next up, run..
+
 > npm start
+
 to get the app running on your localhost! 
